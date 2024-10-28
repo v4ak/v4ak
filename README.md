@@ -1,6 +1,4 @@
-<h1 align="center">V4ak is here v4ak</h1>
-<h3 align="center">a v4aker that v4ak for v4aks</h3>
-
+<h1 align="center">V4ak</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4ak&label=Profile%20views&color=0e75b6&style=flat" alt="v4ak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v4ak" alt="v4ak" /></a> </p>
